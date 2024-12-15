@@ -15,12 +15,22 @@ I'm Needhiesh, a developer who's always exploring new technologies and striving 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=needhieshsingxh&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=needhieshsingxh&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=needhieshsingxh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-### 🔝 Top Contributed Repo
+### ⬇️ Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=needhieshsingxh&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+
+
