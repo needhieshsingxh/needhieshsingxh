@@ -1,7 +1,7 @@
 ##Hey, thanks for stopping by! 🚀<br>
 I'm Needhiesh, a developer always exploring new technologies and striving to improve every day. Check out my profile to learn more about what I’m working on and how we can collaborate!
 
-💫 About Me:
+💫 About Me:<br>
 🔭 I’m currently working on web development projects using the MERN stack and honing my programming skills.<br>
 👯 I’m looking to collaborate on open-source projects and innovative web applications.<br>
 🤝 I’m seeking guidance on building a strong developer network and mastering advanced backend development.<br>
